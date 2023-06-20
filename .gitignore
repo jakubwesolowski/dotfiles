@@ -1,5 +1,6 @@
 .DS_Store
 .idea
+.gitconfig
 *.log
 tmp/
 .config/alacri
