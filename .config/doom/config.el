@@ -120,3 +120,4 @@
 
 
 (global-set-key (kbd "s-.") 'tide-fix)
+(setq display-line-numbers-type 'relative)
