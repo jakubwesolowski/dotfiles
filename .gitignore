@@ -14,7 +14,6 @@ tmp/
 .cache
 .cups
 .docker
-.emacs.d
 .lesshst
 .local
 .m2
